@@ -6,6 +6,6 @@ We provide AI/ML ready omics datasets that are at various stages of data process
 
 Descriptions and dataset links for each of the following research projects can be found at the following urls:
 
-Diabetes Autoimmunity Study in the Young (DAISY): https://data.pnnl.gov/group/nodes/project/33479
-Human Isolate Research Network (HIRN): https://data.pnnl.gov/group/nodes/project/33478
-The Environmental Determinants of Diabetes in the Young (TEDDY): https://data.pnnl.gov/group/nodes/project/33477
+* Diabetes Autoimmunity Study in the Young (DAISY): https://data.pnnl.gov/group/nodes/project/33479
+* Human Isolate Research Network (HIRN): https://data.pnnl.gov/group/nodes/project/33478
+* The Environmental Determinants of Diabetes in the Young (TEDDY): https://data.pnnl.gov/group/nodes/project/33477
