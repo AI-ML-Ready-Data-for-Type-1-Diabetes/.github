@@ -7,3 +7,5 @@ Descriptions and dataset links for each of the following research projects can b
 * Diabetes Autoimmunity Study in the Young (DAISY): https://data.pnnl.gov/group/nodes/project/33479
 * Human Isolate Research Network (HIRN): https://data.pnnl.gov/group/nodes/project/33478
 * The Environmental Determinants of Diabetes in the Young (TEDDY): https://data.pnnl.gov/group/nodes/project/33477
+
+Github repositories contain model cards and code demonstrating ML analyses conducted
